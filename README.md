@@ -3,6 +3,7 @@
 ## Description
 
 A very simple URL shortener, makes use of rewrite_mod (Apache), PHP, mySQL and AngularJS.
+You can find a demo instance here: http://cut.phishy.de/
 
 ## Requirements
 
