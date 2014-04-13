@@ -7,10 +7,9 @@ A very simple URL shortener, makes use of rewrite_mod (Apache), PHP, mySQL and A
 ## Requirements
 
 Before you try to install Cut, make sure that following requirements are fulfilled:
-
-..*Apache and activated rewrite_mod
-..*PHP
-..*mySQL or something equivalent
+* Apache and activated rewrite_mod
+* PHP
+* mySQL or something equivalent
 
 ## Installation
 
