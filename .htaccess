@@ -1,0 +1,4 @@
+RewriteEngine ON
+RewriteBase /
+RewriteRule ^(\w{4})$ api.php/$1 [L]
+RewriteRule ^api api.php [L]
